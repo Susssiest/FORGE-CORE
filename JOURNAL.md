@@ -31,4 +31,8 @@ Using the old sorting of all the pcb components, I completely redid the animatio
 **Total time spent: 1 hour 40 minutes**
 
 
+## Uh I changed the name again.
 
+I randomly decided to change the keubaords name again. It's now called FURNACE. Spelled out on the keeb as FURN4C3. I'm definitely not going to change it again lol. Probably. yeah.
+
+**Total time spent: 30 minutes**
