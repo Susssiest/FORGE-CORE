@@ -35,4 +35,6 @@ Using the old sorting of all the pcb components, I completely redid the animatio
 
 I randomly decided to change the keybaords name again. It's now called FURNACE. Spelled out on the keeb as FURN4C3. Updated repos, forge project pages, renders, and animation.
 
+<img width="1179" height="548" alt="Screenshot 2026-10-04 at 3 02 11 PM" src="https://github.com/user-attachments/assets/d5d3737b-41fb-418c-87f1-84d26cf78fd4" />
+
 **Total time spent: 30 minutes**
