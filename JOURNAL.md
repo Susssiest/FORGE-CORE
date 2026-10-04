@@ -33,6 +33,6 @@ Using the old sorting of all the pcb components, I completely redid the animatio
 
 ## Uh I changed the name again.
 
-I randomly decided to change the keubaords name again. It's now called FURNACE. Spelled out on the keeb as FURN4C3. I'm definitely not going to change it again lol. Probably. yeah.
+I randomly decided to change the keybaords name again. It's now called FURNACE. Spelled out on the keeb as FURN4C3. Updated repos, forge project pages, renders, and animation.
 
 **Total time spent: 30 minutes**
